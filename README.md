@@ -1,2 +1,2 @@
 # ICT-Practice
-This repository contains my university coursework, assignments, practical tasks, and projects related to Information and Communication Technology (ICT). It serves as a record of my academic work and practical learning as a Mechatronics Engineering student.
+This repository contains my practical work and learning activities related to Information and Communication Technologies. It is intended to document my progress in using digital tools, online platforms, programming resources, and other ICT technologies relevant to my academic and professional development.
